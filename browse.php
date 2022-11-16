@@ -10,7 +10,7 @@
                     <p class=''>Welcome</p>
                     <p id='profile'><?php echo $userLoggedIn->getFirstAndLastName(); ?></p>
 
-                    <p class=''>10 public playlists</p>
+                    <p class=''>0 playlists</p>
                 </div>
             </div>       
         </div>

@@ -1,7 +1,7 @@
 <div id="navContainer">
     <nav class="navBar">
         <span class="logo" role="link" tabindex="0" onclick="openPage('index.php')">
-            <img src="assets/images/icons/logo.png" alt="Spotify logo">
+            <img src="assets/images/icons/logo.png" alt="Ozizz Logo">
         </span>
         <div class="group">
             <div class="navItem">
