@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="assets/css/style.css" media="all"  <?php echo date('l jS \of F Y h:i:s A'); ?>">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="assets/js/script.js"></script>
-    <title>Spotify clone</title>
+    <title>Ozizz</title>
 </head>
 <body>
     <div class="mainContainer">

@@ -18,7 +18,7 @@
 
 <html>
 <head>
-	<title>Spotify clone</title>
+	<title>Ozizz</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
